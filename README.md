@@ -40,6 +40,18 @@ Contributions, issues and feature requests are welcome!
 
 Feel free to check the [issues page](issues/).
 
+## Usage
+
+> Clone the repository to your local machine
+
+```sh
+$ git clone https://github.com/danilozag1992/Responsive-Design-.git
+```
+> cd into the directory
+
+```sh
+$ cd Responsive-Design
+```
 ## Show your support
 
 Give a ⭐️ if you like this project!
